@@ -10,5 +10,7 @@ Functions incl. - QT inline widget, QT toolbar, QT print <br/>
 * `eshmun` Medical image viewer for visualization of DICOM images. <br/>
 Functions incl. - **QLabel**, **QPixmap**, stacked windows, tab windows, new dialog <br/>
 
+The unit test and ui test are also included for reference.<br/>
+
 ## Configuration
 Clone the repositary and load these projects in the QT creater. All the examples have been tested on Windows with QT 5.15.2 (compiler: CMake with MINGW 64)<br/>
